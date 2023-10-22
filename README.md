@@ -5,7 +5,6 @@
 2. Arrange all your windows as desired.
 3. Open the installation folder in terminal
 4. `.\GetWindowPosition.exe "ProgramName1" "ProgramName2"` (example: `.\GetWindowPosition.exe "YouTube Music" "Discord"`)
-If you want to auto arrange windows on autostart press `WIN+R` type `shell:startup` press `ENTER` and move arrange_windows_now.lnk to opened folder
+If you want to auto arrange windows on autostart press `WIN+R` type `shell:startup` press `ENTER` and move `arrange_windows_now.lnk` to opened folder
 
-## STILL WORK IN PROGRSS
-TODO: ERROR LOGGING
+## STILL WORK IN PROGRESS
